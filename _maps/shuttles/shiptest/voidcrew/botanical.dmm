@@ -419,6 +419,7 @@
 /obj/item/mining_scanner,
 /obj/item/areaeditor/shuttle,
 /obj/item/storage/toolbox/mechanical,
+/obj/item/stack/cable_coil/red,
 /turf/open/floor/grass,
 /area/ship/bridge)
 "yu" = (
