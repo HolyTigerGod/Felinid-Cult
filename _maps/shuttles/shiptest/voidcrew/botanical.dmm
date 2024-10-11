@@ -420,6 +420,8 @@
 /obj/item/areaeditor/shuttle,
 /obj/item/storage/toolbox/mechanical,
 /obj/item/stack/cable_coil/red,
+/obj/item/pickaxe,
+/obj/item/mining_scanner,
 /turf/open/floor/grass,
 /area/ship/bridge)
 "yu" = (
