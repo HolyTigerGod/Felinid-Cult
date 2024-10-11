@@ -419,7 +419,6 @@
 /obj/item/mining_scanner,
 /obj/item/areaeditor/shuttle,
 /obj/item/storage/toolbox/mechanical,
-/obj/item/storage/box/disks_plantgene,
 /turf/open/floor/grass,
 /area/ship/bridge)
 "yu" = (
@@ -906,8 +905,8 @@ qP
 Nk
 YW
 mL
-WX
-Xj
+zL
+Bx
 gN
 hQ
 RC
@@ -931,8 +930,8 @@ qz
 Pk
 qk
 Fq
-JM
-Ch
+WX
+Xj
 Hq
 dl
 le
@@ -956,8 +955,8 @@ CD
 Nk
 pb
 kR
-zL
-Bx
+JM
+Ch
 fk
 GZ
 rH
