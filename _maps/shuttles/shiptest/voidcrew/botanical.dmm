@@ -326,7 +326,7 @@
 	name = "Bridge Shutters"
 	},
 /obj/machinery/button/door{
-	id = "botnbridge";
+	id = "botnbotany";
 	pixel_y = -28;
 	pixel_x = 5;
 	name = "Botany Shutters"
