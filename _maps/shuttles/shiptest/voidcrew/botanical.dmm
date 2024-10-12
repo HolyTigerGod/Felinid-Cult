@@ -118,7 +118,8 @@
 	id = "botnbridge"
 	},
 /obj/docking_port/mobile{
-	launch_status = 0
+	launch_status = 0;
+	port_direction = 2
 	},
 /turf/open/floor/plating,
 /area/ship/bridge)
