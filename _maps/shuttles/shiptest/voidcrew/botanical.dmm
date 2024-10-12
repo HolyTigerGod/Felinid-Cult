@@ -118,9 +118,7 @@
 	id = "botnbridge"
 	},
 /obj/docking_port/mobile{
-	launch_status = 0;
-	port_direction = 2;
-	dir = 4
+	launch_status = 0
 	},
 /turf/open/floor/plating,
 /area/ship/bridge)
@@ -918,7 +916,7 @@ DJ
 bt
 "}
 (6,1,1) = {"
-kd
+jQ
 SD
 vb
 WS
@@ -1048,7 +1046,7 @@ wN
 wN
 OH
 kd
-jQ
+kd
 kd
 OH
 wN
