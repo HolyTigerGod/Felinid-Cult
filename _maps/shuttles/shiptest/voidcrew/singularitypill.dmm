@@ -48,6 +48,11 @@
 /obj/structure/particle_accelerator/particle_emitter/left,
 /obj/structure/particle_accelerator/particle_emitter/right,
 /obj/structure/particle_accelerator/power_box,
+/obj/machinery/light/floor,
+/obj/machinery/field/generator,
+/obj/machinery/field/generator,
+/obj/machinery/field/generator,
+/obj/machinery/field/generator,
 /turf/open/floor/engine,
 /area/ship/storage)
 "D" = (
@@ -71,10 +76,8 @@
 /obj/item/stack/sheet/glass/fifty,
 /obj/docking_port/mobile{
 	can_move_docking_ports = 1;
-	dir = 8;
 	launch_status = 0
 	},
-/obj/item/storage/toolbox/mechanical,
 /obj/item/clothing/suit/space/hardsuit/engine,
 /obj/item/areaeditor/shuttle,
 /obj/item/t_scanner/adv_mining_scanner/lesser,
@@ -96,6 +99,13 @@
 /obj/item/stock_parts/cell/high,
 /obj/item/stock_parts/cell/high,
 /obj/item/stock_parts/cell/high,
+/obj/item/tank/internals/oxygen,
+/obj/item/stack/sheet/mineral/diamond/five,
+/obj/item/clothing/shoes/magboots,
+/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/glass/fifty,
+/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/glass/fifty,
 /turf/open/floor/engine,
 /area/ship/storage)
 
