@@ -5,8 +5,7 @@
 	"map_path": "_maps/shuttles/shiptest/voidcrew/singularitypill.dmm",
 	"map_id": "singularity",
 	"job_slots": {
-		"Engineer": 3
+		"Station Engineer": 3
 	},
-	"cost": 300,
-	"limit": 3,
+	"cost": 300
 }
