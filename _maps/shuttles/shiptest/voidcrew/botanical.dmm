@@ -172,10 +172,10 @@
 /turf/open/floor/grass,
 /area/ship/crew/hydroponics)
 "oz" = (
-/obj/machinery/light/dim{
+/obj/machinery/suit_storage_unit/standard_unit,
+/obj/machinery/light/broken{
 	dir = 1
 	},
-/obj/machinery/suit_storage_unit/standard_unit,
 /turf/open/floor/wood,
 /area/ship/bridge)
 "oB" = (
@@ -291,6 +291,9 @@
 /obj/item/vending_refill/hydroseeds,
 /obj/structure/closet/crate/large,
 /obj/item/storage/box/lights/tubes,
+/obj/item/seeds/cherry/bomb,
+/obj/item/seeds/cherry/bomb,
+/obj/item/seeds/cherry/bomb,
 /turf/open/floor/grass,
 /area/ship/bridge)
 "sF" = (
@@ -495,8 +498,8 @@
 /turf/open/floor/grass,
 /area/ship/crew/hydroponics)
 "CD" = (
-/obj/machinery/light/dim,
 /obj/machinery/suit_storage_unit/standard_unit,
+/obj/machinery/light/broken,
 /turf/open/floor/wood{
 	icon_state = "wood-broken5"
 	},
@@ -506,6 +509,7 @@
 /obj/machinery/door/window{
 	dir = 4
 	},
+/obj/item/flashlight/lantern,
 /turf/open/floor/wood,
 /area/ship/crew/dorm)
 "CL" = (
@@ -568,7 +572,7 @@
 /turf/open/floor/grass/fairy,
 /area/ship/crew/hydroponics)
 "He" = (
-/obj/machinery/light/broken{
+/obj/machinery/light/dim{
 	dir = 4
 	},
 /turf/open/floor/wood,
